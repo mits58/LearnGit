@@ -1,2 +1,4 @@
-# LearnGit
-To learn git
+# Gitを学びたい
+
+## そもそもGitとは？
+What is "Git"?
